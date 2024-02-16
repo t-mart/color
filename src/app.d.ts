@@ -8,6 +8,12 @@ declare global {
 		// interface PageState {}
 		// interface Platform {}
 	}
+
+	interface Scheme {
+		name: string;
+		sourceUrl: string;
+		colors: string[];
+	}
 }
 
 export {};
