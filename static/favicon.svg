@@ -1,0 +1,16 @@
+<svg width="190" height="190" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <symbol id="rounded-square">
+            <rect x="10" y="10" width="80" height="80" rx="30" />
+        </symbol>
+    </defs>
+
+    <use href="#rounded-square" x="0" y="0" fill="#1f77b4" />
+
+    <use href="#rounded-square" x="0" y="90" fill="#ff7f0e" />
+
+    <use href="#rounded-square" x="90" y="0" fill="#2ca02c" />
+
+    <use href="#rounded-square" x="90" y="90" fill="#d62728" />
+</svg>
+  

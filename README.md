@@ -2,7 +2,7 @@
 
 Hosted at <https://color.tim-martin.com>.
 
-A few color schemes that I seem to keep coming back to. I've created this project to help me remember them and to make it easier to use them in my projects.
+A few color schemes that I seem to keep coming back to.
 
 ## Developing
 
